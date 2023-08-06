@@ -1,0 +1,15 @@
+{
+    "order": 3,
+    "origins": [
+        "origins_oath:reject",
+        "origins_oath:vowless",
+        "origins_oath:defaultnone"
+    ],
+    "gui_title": {
+        "choose_origin": "Accept this truth?",
+        "view_origin": "This is your Oath"
+    },
+    "missing_name": "None, yet",
+    "missing_description": "Something is missing...",
+    "default_origin": "origins_oath:defaultnone"
+}

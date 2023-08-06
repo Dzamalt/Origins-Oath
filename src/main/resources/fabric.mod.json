@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "origins_oath",
+	"version": "1.20.1",
+	"name": "Origins: Oath",
+	"description": "Adds \"Oath\" into the game. Vow for the rest of you're life and gain otherworldly powerst!",
+	"authors": [
+		"Dzam"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "GNU GPLv3",
+	"icon": "assets/origins_oath/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.dzam.originsoath.OriginsOath"
+		],
+		"client": [
+			"net.dzam.originsoath.OriginsOathClient"
+		],
+		"fabric-datagen": [
+			"net.dzam.originsoath.OiginsOathDataGenerator"
+		]
+	},
+	"mixins": [
+		"origins_oath.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.14.22",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

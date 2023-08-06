@@ -1,0 +1,12 @@
+{
+  "powers": [
+     "origins_oath:rejectonone"
+  ],
+  "icon": {
+    "item": "origins_oath:rejecticon"
+  },
+  "order": 10,
+  "impact": 0,
+  "name": "Reject",
+  "description": "No, this is not it"
+}

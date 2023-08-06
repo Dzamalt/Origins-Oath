@@ -1,0 +1,13 @@
+{
+  "powers": [
+
+  ],
+  "icon": {
+    "item": "origins_oath:icon0"
+  },
+  "order": 3,
+  "impact": 0,
+  "name": "None, yet",
+  "description": "Something is missing...",
+  "unchoosable": true
+}
