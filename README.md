@@ -12,8 +12,8 @@ This mod already hve a finished roadmap and im currently not considering adding 
 
 For now i wil not be focusing on backporting but after the roadmap is finished, i will make sure to backport as much version as possible/requested.
 
-#### Forge
+#### Forge?
 
-Shut the fuck up
+No, feel free if you want to make a forge port but im not planning to mod forge anytime soon
 
 
