@@ -6,7 +6,7 @@ Adds "Oath" into the game. Vow for the rest of you're life and gain otherworldly
 
 #### Can you add X Oath into the game?
 
-This mod already hve a finished roadmap and im currently not considering adding another ontop of that. But if you have an oath idea be sure to post it on #origins-idea with "!Origins: Oath" and i will be sure to take a look
+This mod already hve a finished roadmap and im currently not considering adding another ontop of that.
 
 #### Can you backport to version X?
 
